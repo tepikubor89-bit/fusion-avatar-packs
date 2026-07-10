@@ -9,7 +9,7 @@ Community-made profile pictures for Fusion. Create a pack, share one link, and a
 
 ## Use an avatar on a profile
 
-1. Go to **Settings → Profiles**, or the **Who's Watching** screen at launch.
+1. Go to **Settings → Profiles**, or the **Select Your Profile** screen at launch.
 2. Hold a profile (long-press on iPhone/iPad, click-and-hold the touchpad on Apple TV, right-click on Mac).
 3. Choose **Change Avatar** and pick an image from any of your packs. **Remove Avatar** switches back to the default icon.
 
