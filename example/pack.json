@@ -1,0 +1,14 @@
+{
+  "title": "Example Pack",
+  "images": [
+    { "name": "Avatar 1", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/1.png" },
+    { "name": "Avatar 2", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/2.png" },
+    { "name": "Avatar 3", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/3.png" },
+    { "name": "Avatar 4", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/4.png" },
+    { "name": "Avatar 5", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/5.png" },
+    { "name": "Avatar 6", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/6.png" },
+    { "name": "Avatar 7", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/7.png" },
+    { "name": "Avatar 8", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/8.png" },
+    { "name": "Avatar 9", "url": "https://raw.githubusercontent.com/qooode/fusion-avatar-packs/refs/heads/main/example/9.png" }
+  ]
+}
