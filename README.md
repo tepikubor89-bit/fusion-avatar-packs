@@ -5,10 +5,15 @@ Community-made profile pictures for Fusion. Create a pack, share one link, and a
 ## Add a pack to Fusion
 
 1. Copy a pack link (a URL to a `.json` file — see [Packs](#packs) below or make your own).
-2. In Fusion, go to **Settings → Avatar Packs**, paste the link, and tap **Add**.
-3. Go to **Settings → Profiles** (or the launch screen), hold a profile, and choose **Change Avatar**.
+2. In Fusion, go to **Settings → Profiles → Avatar Packs**, paste the link, and tap **Add**.
 
-Packs are shared by all profiles on your device and sync to your other devices via iCloud. Packs auto-refresh once a day, so when the creator adds new images you get them automatically.
+## Use an avatar on a profile
+
+1. Go to **Settings → Profiles**, or the **Who's Watching** screen at launch.
+2. Hold a profile (long-press on iPhone/iPad, click-and-hold the touchpad on Apple TV, right-click on Mac).
+3. Choose **Change Avatar** and pick an image from any of your packs. **Remove Avatar** switches back to the default icon.
+
+Packs are shared by all profiles: add a pack once and every profile can pick from it. The pack list also syncs to your other devices via iCloud, and each profile's chosen avatar travels with the profile. Packs auto-refresh once a day, so when the creator adds new images you get them automatically.
 
 ## Create your own pack
 
