@@ -19,7 +19,7 @@ Packs are shared by all profiles: add a pack once and every profile can pick fro
 
 A pack is a single JSON file. Host it anywhere that serves raw files — a GitHub repo is perfect.
 
-**1. Make a repo and upload your images** (PNG or JPG, square works best — they're shown as rounded tiles).
+**1. Make a repo and upload your images** (PNG or JPG, square works best — they're shown as squares with rounded corners).
 
 **2. Add a `pack.json`:**
 
