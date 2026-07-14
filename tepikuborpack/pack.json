@@ -5,35 +5,35 @@
   "images": [
     {
       "name": "Avatar 1",
-      "url": "images 1.jpeg"
+      "url": "images1.jpeg"
     },
     {
       "name": "Avatar 2",
-      "url": "images 2.png"
+      "url": "images2.png"
     },
     {
       "name": "Avatar 3",
-      "url": "images 3.png"
+      "url": "images3.png"
     },
     {
       "name": "Avatar 4",
-      "url": "images 4.png"
+      "url": "images4.png"
     },
     {
       "name": "Avatar 5",
-      "url": "images 5.png"
+      "url": "images5.png"
     },
     {
       "name": "Avatar 6",
-      "url": "images 6.jpeg"
+      "url": "images6.jpeg"
     },
     {
       "name": "Avatar 7",
-      "url": "images 7.jpeg"
+      "url": "images7.jpeg"
     },
     {
       "name": "Avatar 8",
-      "url": "images 8.jpeg"
+      "url": "images8.jpeg"
     }
   ],
   "allowed_domains": [
