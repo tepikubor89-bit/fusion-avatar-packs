@@ -1,1 +1,42 @@
-
+{
+  "title": "Tepikubor Avatar Pack",
+  "author": "Community",
+  "version": "1.0.0",
+  "images": [
+    {
+      "name": "Avatar 1",
+      "url": "images 1.jpeg"
+    },
+    {
+      "name": "Avatar 2",
+      "url": "images 2.png"
+    },
+    {
+      "name": "Avatar 3",
+      "url": "images 3.png"
+    },
+    {
+      "name": "Avatar 4",
+      "url": "images 4.png"
+    },
+    {
+      "name": "Avatar 5",
+      "url": "images 5.png"
+    },
+    {
+      "name": "Avatar 6",
+      "url": "images 6.jpeg"
+    },
+    {
+      "name": "Avatar 7",
+      "url": "images 7.jpeg"
+    },
+    {
+      "name": "Avatar 8",
+      "url": "images 8.jpeg"
+    }
+  ],
+  "allowed_domains": [
+    "raw.githubusercontent.com"
+  ]
+}
